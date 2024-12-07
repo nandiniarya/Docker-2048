@@ -1,5 +1,6 @@
 
 
+
 # Deploying the 2048 Game with Docker
 
 This repository demonstrates the process of deploying the classic 2048 game using Docker. The Dockerfile provided automates the setup process, including downloading the game files, configuring the web server (Nginx), and serving the game on port 80.
