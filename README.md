@@ -1,5 +1,3 @@
-# Docker-2048
-
 
 
 # Deploying the 2048 Game with Docker
